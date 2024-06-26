@@ -1,4 +1,3 @@
-/*  your css code here. If applicable */
 * {
   margin: 0;
   padding: 0;
@@ -51,6 +50,10 @@ body {
 
 .main-article p {
   text-align: justify;
+}
+
+.pictorial-news-section {
+  text-align: center;
 }
 
 .pictorial-news-section img {
